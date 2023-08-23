@@ -1,7 +1,7 @@
 # visitmetoday
 A full-stack project for managing social media profiles in one place.
 
-##Introduction
+## Introduction
 Introducing Visitme Today, a comprehensive full-stack project that presents a digital visiting card solution for seamless sharing across diverse platforms.
 Upon registration, users are assigned a unique username, automatically generating an exclusive QR code for their profile. For personalized touch, users can also select a custom username if available.
 
