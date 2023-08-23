@@ -6,7 +6,7 @@ const constraints = {
     defaultRemainingReferals: 5,
 
     // Counter
-    counterId: "63cfd78d72e615dd928eda3d",
+    counterId: "xxxx****xxxx",
 
     minPasswordLength: 6,
     maxPasswordLength: 50,
@@ -20,7 +20,7 @@ const constraints = {
     // otpFor: [0,1,2],
 
     // SALT
-    salt: 10,
+    salt: 'x',
 
     // PROFILE
     minFirstNameLength: 2,
