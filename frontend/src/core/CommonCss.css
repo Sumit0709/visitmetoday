@@ -1,0 +1,41 @@
+
+.myButton{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border-width: 0;
+    width: 80%;
+    max-width: 500px;
+}
+
+.myButton:hover{
+    background-color: rgb(65, 57, 57);
+}
+
+.cursor_pointer:hover{
+  cursor: pointer;
+}
+
+
+/* input[type="file"].custom {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    white-space: nowrap;
+    width: 1px;
+  } */
+
+[type="file"] {
+    height: 0;
+    overflow: hidden;
+    width: 0;
+  }
+
+.photo:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}

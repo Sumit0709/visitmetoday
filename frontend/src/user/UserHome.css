@@ -1,0 +1,12 @@
+.edit_profile_referal_copy:hover{
+    cursor: pointer;
+}
+
+@media screen and (min-width: 720px) {
+    .edit_profile_2d{
+        display: grid;
+        grid-template-columns: auto auto;
+        align-items: flex-end;
+        padding-bottom: 50px;
+    }
+}

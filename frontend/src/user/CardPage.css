@@ -1,0 +1,29 @@
+
+.download_card{
+
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border-width: 0;
+    width: 80%;
+    max-width: 500px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.download_card:hover{
+    color: white;
+    background-color: rgb(65, 57, 57);
+}
+
+.card_parent{
+    display: flex;
+}
+
+.card_item{
+    width:100%;
+    justify-content: center;
+}

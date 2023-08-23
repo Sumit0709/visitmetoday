@@ -1,0 +1,80 @@
+.home_profile:hover, .home_login:hover{
+  cursor: pointer;
+}
+
+/* body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+  } */
+  /* linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), */
+  /* https://images.hdqwalls.com/download/churei-tower-mount-fuji-in-japan-8k-68-7680x4320.jpg */
+/*   
+  .home-bg{
+    height: 100vh;
+    position: static;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-image:  url('../media/winter.jpg');
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  } */
+
+
+
+  /* .explore-btn {
+    text-decoration: none;
+    color: black;
+    box-shadow: 0 4px 30px #ffc500;
+    background: #eec500;
+    padding: 12px 30px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    font-weight: normal;
+    text-transform: uppercase;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .explore-btn:hover {
+    color: black;
+    cursor: pointer;
+    box-shadow: 0 4px 40px #ffd900;
+    background: #ffd900;
+  } */
+/* 
+  .hero-card{
+    width:80%;
+    max-width: 400px;
+    min-height: 40vh;
+    margin:auto;
+    margin-top: 25px;
+    padding: 40px;
+    text-align: left;
+    box-sizing: border-box;
+    background-color: rgba(244, 244, 244, 0.43);
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px 0px rgb(176, 160, 255);
+    
+  } */
+
+  /* .developer{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    column-gap: 80px;
+  } */
+
+  
+/* 
+  @media  screen and (max-width: 600px){
+    .developer{
+        display: block;
+        justify-content: center;
+      }
+    
+  } */

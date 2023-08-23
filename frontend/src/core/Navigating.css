@@ -1,0 +1,26 @@
+
+.navigating_container{
+    padding-top: 10%;
+    width: 100%;
+    height: 100vh;
+    z-index: 101;
+    position: fixed;
+    background-color: #ffffff;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.navigating_message{
+    text-align: center;
+    color: #000;
+}
+
+.visibility_show{
+    visibility: visible;
+}
+
+.visibility_hide{
+    visibility: hidden;
+}
